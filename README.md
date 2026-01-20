@@ -1,6 +1,6 @@
-# F3 T-Town Website
+# F3 Tulsa Website
 
-This repo contains a simple Astro site for F3 T-Town. It is intended to be deployed to Cloudflare Workers.
+This repo contains a simple Astro site for F3 Tulsa. It is intended to be deployed to Cloudflare Workers.
 
 ## Quick Start for Devs
 
